@@ -21,4 +21,4 @@ First I remove the the null data from the dataset.
 
 Then I analyse the relationship of Anemia levels with various factors
 
-And at last I predict the Anemia level using [Support vector machine](https://scikit-learn.org/stable/modules/svm.html)
+And at last I predict the Anemia level using [XGBClassifier(Extreme Gradient Boosting classifier)](https://xgboost.readthedocs.io/en/latest/index.html)
